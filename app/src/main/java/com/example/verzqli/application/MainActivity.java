@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.i("zzzz", "onCreate: ");
+        Log.i("zzzz", "onCreate:这是xp2的提交内容 ");
     }
 }
