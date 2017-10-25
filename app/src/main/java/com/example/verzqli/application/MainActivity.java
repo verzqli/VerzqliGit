@@ -11,8 +11,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("zzzz", "onCregixtexpxp22222: ");
-        Log.i("zzzz", "onCregixtexpxp22222: ");Log.i("zzzz", "onCregixtexpxp22222: ");
         Log.i("zzzz", "onCregixtexpxp22222: ");
+        Log.i("zzzz", "onCregixtexpxp22222: ");
+        Log.i("aaaaa", "onCregixtexpxp22222: ");
 
     }
 }
