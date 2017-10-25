@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.i("zzzz", "onCregixte重新开始给我的分支11");
+        Log.i("zzzz", "这是来子xp分支的内容");
 
 
     }
