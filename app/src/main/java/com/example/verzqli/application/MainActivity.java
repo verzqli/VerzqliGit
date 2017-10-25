@@ -10,9 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.i("zzzz", "onCregixte重新开始");
+        Log.i("zzzz", "onCregixte重新开始徐沛22222222");
 
-
-        Log.i("zzzz", "onCreate:重新开始xp2 22222");
     }
 }
