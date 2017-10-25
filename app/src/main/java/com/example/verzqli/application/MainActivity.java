@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("zzzz", "onCregixte重新开始");
-        Log.i("zzzz", "onCregixtexpxpzzzzzz22222: ooooooooogit remote –v");
 
 
         Log.i("zzzz", "onCreate:重新开始xp2 22222");
