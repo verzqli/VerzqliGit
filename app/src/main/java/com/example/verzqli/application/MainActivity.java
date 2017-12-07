@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "onCreate: 重新commit222222222 回退版本顺便修改");
 
 
-        Log.i(TAG, "onCreate: 第二次回退版本 然后加了东西zzzzz");
+        Log.i(TAG, "onCreate: 第二次回退版本 然后加了东西");
     }
 }
