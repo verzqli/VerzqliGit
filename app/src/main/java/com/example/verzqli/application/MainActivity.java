@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i(TAG, "onCreate: 重新commit222222222");
 
-        Log.i(TAG, "onCreate: 重新commit222222222");
+        Log.i(TAG, "onCreate: 重新commit222222222 commit 44 顺便修改3");
+
+        Log.i(TAG, "onCreate: 重新commit44444444");
     }
 }
