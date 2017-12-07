@@ -6,7 +6,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
-
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     private SensorManager sensorManager = null;
@@ -18,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
         sensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
         gyroSensor = sensorManager
                 .getDefaultSensor(Sensor.TYPE_ORIENTATION);
-        Log.i(TAG, "onCreate: commit 3");
+        Log.i(TAG, "onCreate: commit 4");
     }
 }
