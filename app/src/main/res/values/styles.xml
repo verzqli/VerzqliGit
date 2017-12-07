@@ -7,21 +7,5 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    <style name="SimpleDialogStyle" parent="android:Theme.Dialog">
-        <item name="android:colorBackgroundCacheHint">@null</item>
-        <item name="android:windowFrame">@null</item> <!--边框-->
-        <item name="android:windowBackground">@android:color/transparent</item> <!-- 背景透明 -->
-        <item name="android:windowNoTitle">true</item> <!--无标题-->
-        <item name="android:windowIsTranslucent">true</item> <!--半透明-->
-        <item name="android:windowIsFloating">true</item> <!--是否浮现在activity之上-->
-    </style>
-    <declare-styleable name="RoundRectTextView">
-        <attr name="back_ground" format="color" />
-        <attr name="pressedBackground" format="color" />
-        <attr name="rect_radius" format="float" />
-        <attr name="leftTopRadius" format="float" />
-        <attr name="rightTopRadius" format="float" />
-        <attr name="leftBottomRadius" format="float" />
-        <attr name="rightBottomRadius" format="float" />
-    </declare-styleable>
+
 </resources>

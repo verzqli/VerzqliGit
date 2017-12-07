@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:orientation="vertical"
     tools:context="com.example.verzqli.application.MainActivity">
 
-  <RelativeLayout
-      android:layout_width="100dp"
-      android:layout_height="100dp" >
     <widget.RoundRectTextView
-        android:id="@+id/zz"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:text="11111111"/>
-      </RelativeLayout>
+        android:id="@+id/text"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:text="Hello World!"
+        android:gravity="center"
+        android:background="#ccc"
+        />
+
 </LinearLayout>
