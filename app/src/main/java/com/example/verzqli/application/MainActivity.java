@@ -22,6 +22,5 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "onCreate: 重新commit222222222");
 
         Log.i(TAG, "onCreate: 重新commit222222222");
-        Log.i(TAG, "onCreate: 回退版本后加新的内容");
     }
 }
