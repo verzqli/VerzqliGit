@@ -17,7 +17,9 @@ public class MainActivity extends AppCompatActivity {
         sensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
         gyroSensor = sensorManager
                 .getDefaultSensor(Sensor.TYPE_ORIENTATION);
-        Log.i(TAG, "onCreate: 重新commit11111111");
+        Log.i(TAG, "onCreate: 重新commit11111111    commit3添加顺便修改了111111");
+
+        Log.i(TAG, "onCreate: 重新commit222222222");
 
         Log.i(TAG, "onCreate: 重新commit222222222");
     }
